@@ -8,7 +8,8 @@ class Hello
 
 	public static void main(String ar[])
 	{
-		myMethod();
+		hello h=new hello();
+		h.myMethod();
 	}
 
 }
