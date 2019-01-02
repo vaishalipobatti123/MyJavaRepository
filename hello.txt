@@ -1,14 +1,14 @@
 class Hello
 {
 
-	myMethod()
+	static welcomeMethod()
 	{
 		System.out.println("Welcome to Git");	
 	}
 
 	public static void main(String ar[])
 	{
-		myMethod();
+		welcomeMethod();
 	}
 
 }
