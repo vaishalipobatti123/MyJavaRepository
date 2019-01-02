@@ -1,3 +1,15 @@
-hello
+class Hello
+{
 
-Sneha
+	myMethod()
+	{
+		System.out.println("Welcome to Git");	
+	}
+
+	public static void main(String ar[])
+	{
+		myMethod();
+	}
+
+}
+
